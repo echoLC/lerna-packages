@@ -1,10 +1,10 @@
 {
-  "name": "@huaying/markdown-editor",
+  "name": "markdown-editor",
   "description": "a markdown editor component for vue.js",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
-  "repository": "git@github.com:gckjdev/Huaying_Frontend_Common.git",
+  "repository": "git@github.com:echoLC/lerna-packages.git",
   "keywords": [
     "markdown",
     "vue"
@@ -14,5 +14,6 @@
     "axios": "^0.18.0",
     "codemirror": "^5.42.0",
     "tui-editor": "^1.2.7"
-  }
+  },
+  "gitHead": "f4f24b746e317bab2b8e294d473a877414c8fcc0"
 }

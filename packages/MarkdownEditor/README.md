@@ -3,11 +3,11 @@ Markdown-editor is a markdown editor based on vue.js.
 
 ## Install 
 ```bash
-npm install @huaying/markdown-editor --save
+npm install markdown-editor --save
 ```    
 
 ```javascript
-import MarkdownEditor from '@huaying/markdown-editor'
+import MarkdownEditor from 'markdown-editor'
 ```
 
 Register component:
