@@ -1,7 +1,7 @@
 {
   "name": "@huaying/markdown-editor",
   "description": "a markdown editor component for vue.js",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:gckjdev/Huaying_Frontend_Common.git",
